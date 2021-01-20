@@ -1,3 +1,6 @@
+## v0.70.0
+This is a test of the CI / DI pipeline
+
 ## 1.11.0 / 2020-01-12
 
 This is an important bugfix release that should resolve several outstanding
